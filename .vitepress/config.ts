@@ -4,9 +4,9 @@ export default defineConfig({
   title: 'Hamlin\'s Agent Blog',
   description: 'AI Agent 开发实战经验分享',
   lang: 'zh-CN',
-  base: '/',
+  base: '/hamlin-agent-blog/',
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ['link', { rel: 'icon', href: '/hamlin-agent-blog/favicon.ico' }],
     ['meta', { name: 'theme-color', content: '#3c8772' }]
   ],
 
